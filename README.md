@@ -85,6 +85,3 @@ This research was conducted using data science and analytical tools, with comput
 ## Connect
 - LinkedIn: [Arti Sharma](https://www.linkedin.com/in/arti-sharma-hrprofessional/)
 - Email: artisharmaresume26@gmail.com
-
-- LinkedIn: [Arti Sharma](https://www.linkedin.com/in/arti-sharma)
-- Email: artisharmaresume26@gmail.com

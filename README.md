@@ -57,8 +57,8 @@ Exposure scores reflect the proportion of O*NET documented task statements class
 | `Figure1_AI_Exposure_by_HR_Role.png` | Bar chart — occupation exposure ranking |
 | `Figure2_Task_Breakdown_by_Role.png` | Stacked bar — task exposure composition |
 | `Figure3_Surviving_Skills.png` | Skills bifurcation analysis |
-| `GenAI_HR_Workforce_Shift_ArtiSharma_2026.pdf` | Full research paper (PDF) — Also available on SSRN: papers.ssrn.com/sol3/papers.cfm?abstract_id=6661020 |
-| `GenAI_HR_Workforce_Shift_ArtiSharma_2026.docx` | Full research paper (Word) — Also available on SSRN: papers.ssrn.com/sol3/papers.cfm?abstract_id=6661020 |
+| `GenAI_HR_Workforce_Shift_ArtiSharma_2026.pdf` | Full research paper — available on SSRN |
+| `GenAI_HR_Workforce_Shift_ArtiSharma_2026.docx` | Full research paper (Word) — coming soon |
 
 ---
 
@@ -79,6 +79,14 @@ Exposure scores reflect the proportion of O*NET documented task statements class
 3. **Invest in Both AI Literacy and Human Skills Development** — the skills bifurcation demands a dual development strategy
 4. **Conduct an Internal HR Task Exposure Audit** — map your department's task portfolio using O*NET SOC codes
 5. **Build Organization-Wide AI Literacy** — every HR function benefits from foundational AI capability
+
+---
+
+## Published On
+
+- **SSRN:** [The Gen AI Workforce Shift: Mapping Generative AI Exposure Across HR Occupations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6661020)
+  - SSRN Abstract ID: 6661020
+  - Submitted: April 2026
 
 ---
 

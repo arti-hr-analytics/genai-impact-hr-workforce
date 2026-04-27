@@ -57,8 +57,8 @@ Exposure scores reflect the proportion of O*NET documented task statements class
 | `Figure1_AI_Exposure_by_HR_Role.png` | Bar chart — occupation exposure ranking |
 | `Figure2_Task_Breakdown_by_Role.png` | Stacked bar — task exposure composition |
 | `Figure3_Surviving_Skills.png` | Skills bifurcation analysis |
-| `GenAI_HR_Workforce_Shift_ArtiSharma_2026.pdf` | Full research paper (PDF) — coming soon |
-| `GenAI_HR_Workforce_Shift_ArtiSharma_2026.docx` | Full research paper (Word) — coming soon |
+| `GenAI_HR_Workforce_Shift_ArtiSharma_2026.pdf` | Full research paper (PDF) — Also available on SSRN: papers.ssrn.com/sol3/papers.cfm?abstract_id=6661020 |
+| `GenAI_HR_Workforce_Shift_ArtiSharma_2026.docx` | Full research paper (Word) — Also available on SSRN: papers.ssrn.com/sol3/papers.cfm?abstract_id=6661020 |
 
 ---
 
